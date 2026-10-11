@@ -30,9 +30,12 @@ python GhHostsUpdater.py
 Or just double-click the file. If you are not an administrator, a UAC prompt
 will appear; the script keeps running elevated.
 
+Linux users can use [GhHostsUpdater-linux.py](GhHostsUpdater-linux.py)
+(`sudo python3 GhHostsUpdater-linux.py`).
+
 ### Requirements
 
-- Windows
+- Windows or Linux
 - Python 3.x (no third-party dependencies)
 
 ### Note
@@ -64,9 +67,12 @@ python GhHostsUpdater.py
 
 或直接双击运行文件。当前不是管理员时会出现 UAC 提示，提权后继续执行。
 
+Linux 用户可使用 [GhHostsUpdater-linux.py](GhHostsUpdater-linux.py)
+(`sudo python3 GhHostsUpdater-linux.py`)。
+
 ### 环境要求
 
-- Windows
+- Windows 或 Linux
 - Python 3.x（无第三方依赖）
 
 ### 说明
